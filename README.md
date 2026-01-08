@@ -1,4 +1,4 @@
-# Compiling and Working with Java
+# Lab 2 - Compiling and Working with Java
 
 **Author**: Justin Del Vecchio
 
