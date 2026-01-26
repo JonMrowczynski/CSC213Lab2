@@ -28,7 +28,7 @@ Perform the following steps to compile a Java program.
 5. Have this method print out **exactly** "Welcome to Lab 2!", with a newline, to the console. 
 6. Compile the program with `javac` and ensure it compiles successfully!
 7. Run the program using `java` to ensure it works.
-    - You can run a compiled `.class` file, by executing the command `java NameOfClass`. Notice no `.class` extension!
+    - You can run a compiled `.class` file, by executing the command `java NameOfClass`. Notice no `.class` or `.java` extension!
 
 You used the java compiler to compile the program. There are many compile options (or flags). You can see all these options by entering in: `javac --help`.
 
