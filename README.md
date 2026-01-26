@@ -90,6 +90,6 @@ import java.math.*;
 
 [Answer Here]
 
-### Q8: Upload this file and your Java source code to the D2L dropbox.
+### Q8: Upload this file and your Java source code to the corresponding D2L dropbox.
 
 [Perform steps on D2L]
