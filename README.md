@@ -55,7 +55,7 @@ Leave the existing code in the file and add the requested functionality to it:
 3. Store the result in a variable.
 4. Print out the variable to the console.
 5. Run the program.
-    - You could either use the process explained above, or...
+    - You could either use the process [explained in Part 1](#part-1-compiling-a-java-program--looking-at-a-compilers-output--looking-at-compiler-options), or...
     - You can directly run **single-source** Java files and skip the explicit compilation process using the command `java FileNameWithMainMethod.java`.
 
 ### Q4: What value does the program output for log(0)?
